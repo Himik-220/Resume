@@ -1,6 +1,6 @@
 # Leonid Shchipkov 
 
-![photo](<img src="image/redcat.jpg" width="400" height="400">)
+![photo](<img src="img/photo.jpg" width="400" height="400">)
 
 Занимаюсь программированием, обучаюсь в университете 2 курс на факультете 
 “Информационные системы и технологии” по заочной форме, прохожу курс 
