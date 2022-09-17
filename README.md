@@ -1,5 +1,5 @@
-# Leonid Shchipkov
-![photo](img/photo.jpg)
+# Leonid Shchipkov ![photo](img/photo.jpg)
+
 Занимаюсь программированием, обучаюсь в университете 2 курс на факультете 
 “Информационные системы и технологии” по заочной форме, прохожу курс 
 iOS-разработчик в Нетологии. Имею опыт работы с GIT, CocoaPods, SwiftLint, 
