@@ -12,13 +12,13 @@ SDWebImage, iOS SDK.
 * Применение объектно-ориентированного дизайна
 * Создание адаптивного интерфейса приложения и работа с анимацией
 * Инструменты:
- * Swift
- * Xcode
- * Git
- * CoreData
- * Cocoapods
- * GCD
- * SwiftLint
- * SwiftUI
- * UIKit
+  * Swift
+  * Xcode
+  * Git
+  * CoreData
+  * Cocoapods
+  * GCD
+  * SwiftLint
+  * SwiftUI
+  * UIKit
 
